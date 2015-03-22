@@ -99,10 +99,6 @@
         <item name="android:paddingLeft">8dp</item>
     </style>
 
-    <style name="SearchButton.WithPaddingStart">
-        <item name="android:paddingLeft">8dp</item>
-    </style>
-
     <!-- Launcher Settings -->
     <style name="LauncherTheme" parent="@android:style/Theme.Material.Light.DarkActionBar">
         <item name="android:windowContentOverlay">@null</item>
